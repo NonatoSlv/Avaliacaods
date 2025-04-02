@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        Pessoa pessoa1 = new Pessoa ("Daniel", 'M');
+        Pessoa pessoa1 = new Pessoa ("Andrey", 'M');
         pessoa1.imprimirInformacoes();
 
         Pessoa pessoa2 = new Pessoa ("Maria", 'F');
